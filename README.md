@@ -1,7 +1,7 @@
-predictive_keyboard
+Predictive Keyboard
 ==============================
 
-Keyboard that predicts what you are typing as you type, powered by an LSTM RNN in Keras.
+Keyboard that predicts what you are typing, powered by an LSTM RNN in Keras.
 
 Project Organization
 ------------
